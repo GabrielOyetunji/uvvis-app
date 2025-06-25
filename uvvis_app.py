@@ -13,7 +13,7 @@ import matplotlib.pyplot as plt
 
 st.set_page_config(page_title="UV-Vis Spectrum Trimmer", layout="centered")
 
-st.title("🌈 UV-Vis Spectra Processor")
+st.title("UV-Vis Spectra Processor")
 st.markdown("Upload raw CARY 50 data and interactively trim the wavelength range.")
 
 # Upload CSV
